@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://tcar10s.github.io/webpack-starter/">
+    <a href="https://tcar10s.github.io/chuck-norris-jokes/">
       Demo
     </a>
   </h3>
@@ -10,7 +10,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/TCar10s/webpack-starter/main/src/assets/screenshot-page.jpeg)
+![screenshot](https://raw.githubusercontent.com/TCar10s/chuck-norris-jokes/Main/src/assets/screenshot-page.jpeg)
 
 
 ## Notas
